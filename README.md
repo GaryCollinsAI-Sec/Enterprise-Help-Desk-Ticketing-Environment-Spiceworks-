@@ -41,7 +41,7 @@ I successfully managed the full lifecycle of **15+ technical support tickets**, 
 
 | Support Dashboard (Resolved) | Detailed Resolution Sample |
 | :--- | :--- |
-| <img src=<img width="1205" height="512" alt="Screenshot 2026-04-16 174122" src="https://github.com/user-attachments/assets/8664e0e9-8006-4d09-b50c-d1e9cda38ee7"/>
+| <img width="1205" height="512" alt="Screenshot 2026-04-16 174122" src="https://github.com/user-attachments/assets/8664e0e9-8006-4d09-b50c-d1e9cda38ee7"/>
 "> |
 
 ---
