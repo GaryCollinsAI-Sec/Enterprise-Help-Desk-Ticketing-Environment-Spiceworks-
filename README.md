@@ -44,4 +44,9 @@ I successfully managed the full lifecycle of **15+ technical support tickets**, 
 | <img width="1205" height="512" alt="Screenshot 2026-04-16 174122" src="https://github.com/user-attachments/assets/8664e0e9-8006-4d09-b50c-d1e9cda38ee7"/>
 
 
----
+<hr>
+
+<h2>🔗 Project Links</h2>
+<p>
+  <a href="https://github.com/GaryCollinsAI-Sec">Main Portfolio</a>
+</p>
